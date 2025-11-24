@@ -22,5 +22,5 @@ Each folder represents a step in the learning process.
 
 ## 🔗 Contact
 
-- GitHub: https://github.com/iliaelmi
+- GitHub: **[@iliaelmi](https://github.com/iliaelmi)**
 - Email: elmiilia@yahoo.com
