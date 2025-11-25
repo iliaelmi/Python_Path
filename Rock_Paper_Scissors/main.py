@@ -132,3 +132,6 @@ while True:
     if again == "q":
         print("Goodbye!")
         break 
+
+if __name__ == "__main__":
+    main()
