@@ -147,5 +147,3 @@ This project is released under the **MIT License** — feel free to use, modify,
 A project created for learning and practicing Python, NLTK, and Streamlit.
 
 ---
-
-اگر خواستی می‌تونم نسخه‌ی **فوق حرفه‌ای Markdown با استایل، badge، table of contents و …** هم برات بسازم 🔥
